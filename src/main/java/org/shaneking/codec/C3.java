@@ -19,7 +19,7 @@ import java.util.UUID;
 /**
  * named like codec or crypto (third party)
  * <p>
- * https://github.com/ShaneKing/sk-js/blob/mirror/src/Crypto0.js
+ * https://github.com/ShaneKing/sk-js/blob/master/src/Crypto0.js
  */
 public class C3 {
   //ILoveYou
