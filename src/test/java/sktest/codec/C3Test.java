@@ -11,7 +11,6 @@ import javax.crypto.BadPaddingException;
 import java.util.UUID;
 
 public class C3Test extends SKUnit {
-
   private String plainText = "plainText";
   private String cipherText = "urvlk7OI3tp6JUMD13lWTw==";
 
