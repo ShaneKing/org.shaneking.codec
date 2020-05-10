@@ -6,6 +6,7 @@ import org.junit.Test;
 import org.shaneking.codec.C3;
 import org.shaneking.skava.lang.String0;
 import org.shaneking.skava.util.UUID0;
+import org.shaneking.test.SKUnit;
 
 import javax.crypto.BadPaddingException;
 import java.util.UUID;
