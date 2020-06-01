@@ -48,7 +48,7 @@ public class C3Test extends SKUnit {
 
   @Test
   public void genKeyEightLength() throws Exception {
-    skPrint(C3.genKey(UUID.randomUUID().toString().split(String0.MINUS)[0]));
+    tstPrint(C3.genKey(UUID.randomUUID().toString().split(String0.MINUS)[0]));
     Assert.assertEquals(8, UUID.randomUUID().toString().split(String0.MINUS)[0].length());
   }
 
